@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
+  <title>显腾私募了</title>
 </head>
 <body>
   <h1>显腾私募了</h1>
