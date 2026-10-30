@@ -15,7 +15,7 @@
   <h2>采石</h2>
 
   <audio controls loop preload="metadata">
-    <source src="万能青年旅店-采石.mp3" type="audio/mpeg">
+    <source src="万能青年旅店 - 采石.mp3" type="audio/mpeg">
     你的浏览器不支持音频播放。
   </audio>
 
