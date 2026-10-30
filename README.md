@@ -4,8 +4,8 @@
 
   <style>
     .cd {
-      width: 180px;
-      height: 180px;
+      width: 64px;
+      height: 64px;
       margin: 25px auto;
       border-radius: 50%;
       background: repeating-radial-gradient(
@@ -20,8 +20,8 @@
     }
 
     .cd img {
-      width: 65px;
-      height: 65px;
+      width: 48px;
+      height: 48px;
       border-radius: 50%;
     }
 
