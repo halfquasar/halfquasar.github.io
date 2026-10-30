@@ -43,7 +43,7 @@
   <hr>
 
   <div class="cd" id="cd">
-    <img src="1111111111111111" alt="唱片封面">
+    <img src="冀西南林路行_109951166554891221.jpg" alt="唱片封面">
   </div>
 
   <audio id="music" autoplay loop>
