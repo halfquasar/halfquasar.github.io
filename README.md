@@ -8,10 +8,10 @@
   <img src="IMG_20261031_031019.jpg" alt="图片" width="300">
 
   <hr>
-  <p id="notice">稍等片刻……</p>
+  <p id="notice">音乐稍等片刻……</p>
 <script>
   setTimeout(function() {document.getElementById("notice").remove();
-  }, 5000);
+  }, 500);
 </script>
 
  <audio id="music" autoplay loop>
