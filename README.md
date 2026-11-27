@@ -17,7 +17,7 @@
   <hr>
   <p>找到我</p>
   <a href="https://x.com/halfquasar" target="_blank">Twitter</a>
-  <a href="https://https://youtube.com/@halfquasar" target="_blank">YouTube</a>
+  <a href="https://youtube.com/@halfquasar?si=LmIb_FLzSOz3ma5R" target="_blank">YouTube</a>
  <audio id="music" autoplay loop>
     <source src="万能青年旅店 - 采石.mp3" type="audio/mpeg">
   </audio>
