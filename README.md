@@ -16,7 +16,6 @@
 </script>
   <hr>
   <p>找到我</p>
-  <p>郵箱:halfquasar@qq.com</p>
   <a href="https://x.com/halfquasar" target="_blank">Twitter</a>
   <a href="https://https://youtube.com/@halfquasar" target="_blank">YouTube</a>
  <audio id="music" autoplay loop>
